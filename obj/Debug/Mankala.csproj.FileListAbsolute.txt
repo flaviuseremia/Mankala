@@ -1,0 +1,12 @@
+D:\Programe\C#\Mankala\Mankala\bin\Debug\Mankala.exe.config
+D:\Programe\C#\Mankala\Mankala\bin\Debug\Mankala.exe
+D:\Programe\C#\Mankala\Mankala\bin\Debug\Mankala.pdb
+D:\Programe\C#\Mankala\Mankala\obj\Debug\Mankala.csproj.AssemblyReference.cache
+D:\Programe\C#\Mankala\Mankala\obj\Debug\Mankala.menuForm.resources
+D:\Programe\C#\Mankala\Mankala\obj\Debug\Mankala.Properties.Resources.resources
+D:\Programe\C#\Mankala\Mankala\obj\Debug\Mankala.csproj.GenerateResource.cache
+D:\Programe\C#\Mankala\Mankala\obj\Debug\Mankala.csproj.CoreCompileInputs.cache
+D:\Programe\C#\Mankala\Mankala\obj\Debug\Mankala.exe
+D:\Programe\C#\Mankala\Mankala\obj\Debug\Mankala.pdb
+D:\Programe\C#\Mankala\Mankala\obj\Debug\Mankala.PvPForm.resources
+D:\Programe\C#\Mankala\Mankala\obj\Debug\Mankala.AIForm.resources
